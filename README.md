@@ -1,6 +1,6 @@
 # AI Reinforcement Learning Car Project
 
-Put simply, I used Deep Q-Learning (DQN) to teach a car how to drive around a track.
+Put simply, I used Deep Q-Learning (DQN) to teach a car how to drive around a track. If you're reading this readme rn (very improbable) im just too tired to write a full readme bc tbh im gonna change like most of this anyways. 
 
 ## Features Include
 
